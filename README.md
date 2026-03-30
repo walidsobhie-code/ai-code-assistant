@@ -227,3 +227,7 @@ If this saved you time, please star the repo!
 ---
 
 **Built with ❤️ by [walidsobhie-code](https://github.com/walidsobhie-code)**
+
+## 🖥️ Demo Screenshot
+
+![Code Assistant Demo](ai-code-assistant_test.png)
