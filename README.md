@@ -3,7 +3,7 @@
 > **Ask questions about YOUR codebase** — AI that actually understands your code, not just general programming.
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
-[![Try on HF](https://img.shields.io/huggingface/spaces/my-ai-stack/ai-code-assistant?color=blue&label=Try+Live+Demo)](https://huggingface.co/spaces/my-ai-stack/ai-code-assistant)
+[🚀 Try Live Demo](https://huggingface.co/spaces/my-ai-stack/ai-code-assistant)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/walidsobhie-code/ai-code-assistant)](https://github.com/walidsobhie-code/ai-code-assistant/stargazers)
 
