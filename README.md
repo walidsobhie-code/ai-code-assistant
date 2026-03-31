@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
 
 [🚀 Try Live Demo](https://huggingface.co/spaces/my-ai-stack/ai-code-assistant)
-[🚀 Try Live Demo](https://huggingface.co/spaces/my-ai-stack/ai-code-assistant)
+
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/walidsobhie-code/ai-code-assistant)](https://github.com/walidsobhie-code/ai-code-assistant/stargazers)
 
